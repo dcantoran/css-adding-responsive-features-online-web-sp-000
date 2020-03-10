@@ -68,6 +68,13 @@
     padding: 10px 20px;
     width: auto;
   }
+  
+  #social {
+    padding: 60px 0 0;
+  }
+  #logo {
+    top: 60px;
+  }
 }
 
 
